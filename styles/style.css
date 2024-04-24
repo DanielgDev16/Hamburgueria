@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: #f6f7f8;
+}
+
+#menu{
+    background-image: url(https://www.bing.com/images/search?view=detailV2&ccid=hSkgIkpg&id=22F9F09B32715F7BF3A0373E98F4143EC95CC72B&thid=OIP.hSkgIkpgEEIkJHkzjXaI5QHaFO&mediaurl=https%3a%2f%2fwww.sabornamesa.com.br%2fmedia%2fk2%2fitems%2fcache%2fd4ae67bb81032f6add66be1c1df07be9_XL.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.852920224a601042242479338d7688e5%3frik%3dK8dcyT4U9Jg%252bNw%26pid%3dImgRaw%26r%3d0&exph=868&expw=1230&q=hamburguer&simid=608026430491735304&FORM=IRPRST&ck=164DBA6483C0BEA8BDD02B1705706FF4&selectedIndex=29&itb=0);
+}
